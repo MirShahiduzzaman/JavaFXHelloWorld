@@ -1,0 +1,12 @@
+.root
+{
+    -fx-background-color: black;
+}
+
+.label
+{
+    -fx-font-size: 20;
+    -fx-background-color: black;
+}
+
+textField.setStyle("-fx-text-inner-color: red;");
