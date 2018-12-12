@@ -6,7 +6,5 @@
 .label
 {
     -fx-font-size: 20;
-    -fx-background-color: black;
+    -fx-background-color: gold;
 }
-
-textField.setStyle("-fx-text-inner-color: red;");
